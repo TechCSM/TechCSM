@@ -8,7 +8,7 @@
 - <a href="https://github.com/hugo-toha/toha">toha</a>
 
 ### 4. 画像の一部使用
-- <a href="http://www.freepik.com">Designed by stories / Freepik</a>
+-   Images: "<a href='https://www.freepik.com/vectors/confidence'>Confidence vector created by storyset - www.freepik.com</a>"
 
 ### 5. 免責事項
 当社は、当サイトにコンテンツを掲載するにあたって、その内容、機能等について細心の注意を払っておりますが、コンテンツの内容が正確であるかどうか、最新のものであるかどうか、安全なものであるか等について保証をするものではなく、何らの責任を負うものではありません。
