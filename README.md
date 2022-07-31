@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @TechCSM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### 1. Cosmo Design Ltd.
 - 3Dプリントサービス、3Dモデリングサービス、IoTデバイス、IoTシステム開発についてのサイトです。
 
@@ -11,7 +5,7 @@
 - <a href="http://www.freepik.com">HUGO</a>
 
 ### 3. HUGOのテーマ
-- <a href="https://github.com/hugo-toha/toha">tohak</a>
+- <a href="https://github.com/hugo-toha/toha">toha</a>
 
 ### 4. 画像の一部使用
 - <a href="http://www.freepik.com">Designed by stories / Freepik</a>
